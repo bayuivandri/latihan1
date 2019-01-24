@@ -41,11 +41,11 @@ Menginstall GIT di Windows sangat mudah, cukup dengan mendownload dan menjalanka
 
 2. Maka akan ada tampilan command prompt seperti dibawah ini
 
-![foto 2ab](https://user-images.githubusercontent.com/46738174/51704168-f022ec00-204a-11e9-9141-5db750d71240.jpg)
+![foto2](https://user-images.githubusercontent.com/46738174/51699849-4c344300-2040-11e9-95b7-145bec244061.jpg)
 
 3. Buka Drive yang ingin dipakai, semisal Drive D jalankan dengan perintah cd /d
 
-![foto2](https://user-images.githubusercontent.com/46738174/51699849-4c344300-2040-11e9-95b7-145bec244061.jpg)
+![foto 2ab](https://user-images.githubusercontent.com/46738174/51704168-f022ec00-204a-11e9-9141-5db750d71240.jpg)
 
 4. Buat directory dengan printah "mkdir" sebagai contoh : directory Pemograman1
 
