@@ -41,35 +41,35 @@ Menginstall GIT di Windows sangat mudah, cukup dengan mendownload dan menjalanka
 
 2. Maka akan ada tampilan command prompt seperti dibawah ini
 
-![foto2](https://user-images.githubusercontent.com/46738174/51699849-4c344300-2040-11e9-95b7-145bec244061.jpg)
+![foto 2ab](https://user-images.githubusercontent.com/46738174/51704168-f022ec00-204a-11e9-9141-5db750d71240.jpg)
 
 3. Buka Drive yang ingin dipakai, semisal Drive D jalankan dengan perintah cd /d
 
-![foto 3](https://user-images.githubusercontent.com/46738174/51702624-daabc300-2046-11e9-9685-65ea9fd71083.jpg)
+![foto2](https://user-images.githubusercontent.com/46738174/51699849-4c344300-2040-11e9-95b7-145bec244061.jpg)
 
 4. Buat directory dengan printah "mkdir" sebagai contoh : directory Pemograman1
 
-![foto 4](https://user-images.githubusercontent.com/46738174/51702649-ec8d6600-2046-11e9-9987-f26772d0e329.jpg)
+![foto 3](https://user-images.githubusercontent.com/46738174/51702624-daabc300-2046-11e9-9685-65ea9fd71083.jpg)
 
 5. Buka directory Pemograman1 dengan perintah cd Pemograman1
 
-![foto 5](https://user-images.githubusercontent.com/46738174/51702697-075fda80-2047-11e9-9726-1c5894a1638a.jpg)
+![foto 4](https://user-images.githubusercontent.com/46738174/51702649-ec8d6600-2046-11e9-9987-f26772d0e329.jpg)
 
 6. Buat directory latihan1 dan buka directory latihan1
 
-![foto 6](https://user-images.githubusercontent.com/46738174/51702716-16468d00-2047-11e9-9375-4f948f7c83a5.jpg)
+![foto 5](https://user-images.githubusercontent.com/46738174/51702697-075fda80-2047-11e9-9726-1c5894a1638a.jpg)
 
 7. Menambahkan file baru pada repository dengan perintah echo "#latihan1" >> README.md
 
-![foto 7](https://user-images.githubusercontent.com/46738174/51702739-23fc1280-2047-11e9-9d51-249d4e56e5a2.jpg)
+![foto 6](https://user-images.githubusercontent.com/46738174/51702716-16468d00-2047-11e9-9375-4f948f7c83a5.jpg)
 
 8. Jalankan perintah git init untuk menjalankan repository local printah
 
-![foto 8](https://user-images.githubusercontent.com/46738174/51702757-2fe7d480-2047-11e9-93db-97066f7a662e.jpg)
+![foto 7](https://user-images.githubusercontent.com/46738174/51702739-23fc1280-2047-11e9-9d51-249d4e56e5a2.jpg)
 
 9. Untuk menambahkan file yang baru saja dibuat tersebut gunakan perintah git add README.md
 
-![foto 9](https://user-images.githubusercontent.com/46738174/51702782-3d04c380-2047-11e9-82f7-19236d372c30.jpg)
+![foto 8](https://user-images.githubusercontent.com/46738174/51702757-2fe7d480-2047-11e9-93db-97066f7a662e.jpg)
 
 10. Untuk menyimpan perubahaan yang ada kedalam database repository local, gunakan perintah git commit -m "File pertama saya"
 
